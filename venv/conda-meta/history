@@ -1,5 +1,5 @@
-==> 2024-05-30 23:34:37 <==
-# cmd: D:\Users\manth\anaconda3\Scripts\conda-script.py create -p venv python==3.8 -y
+==> 2024-06-05 21:26:19 <==
+# cmd: D:\Users\manth\anaconda3\Scripts\conda-script.py create -p venv python==3.8
 # conda version: 23.7.4
 +defaults/win-64::ca-certificates-2024.3.11-haa95532_0
 +defaults/win-64::openssl-1.1.1w-h2bbff1b_0
